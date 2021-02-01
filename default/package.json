@@ -1,0 +1,12 @@
+{
+  "name": "current",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "onchange 'src/*.java' -- javac -d out '{{file}}'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
