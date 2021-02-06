@@ -1,1 +1,1 @@
-cp "./default" $1 -r;
+cp "./.default" $1 -r;
